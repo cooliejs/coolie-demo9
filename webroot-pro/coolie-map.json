@@ -3,32 +3,15 @@
     "main": [
       {
         "src": "../webroot-dev/index.js",
-        "dest": "/static/js/cc6f657a2fbe6a336a75a27f65c428f6.js",
-        "deps": []
-      }
-    ],
-    "async": [
-      {
-        "src": "../webroot-dev/pages/a.js",
-        "dest": "/static/js/async/1.afe948d32200ecb81c4afe43d7afed45.js",
-        "deps": []
-      },
-      {
-        "src": "../webroot-dev/pages/b.js",
-        "dest": "/static/js/async/2.141ae7e19078fca1a1e954507d545dcd.js",
-        "deps": []
-      },
-      {
-        "src": "../webroot-dev/pages/404.js",
-        "dest": "/static/js/async/3.d6bd0d7db45a9639d6c4e60697312b7f.js",
+        "dest": "/static/js/main/71b6a58839bc79bd924418ad47923722.js",
         "deps": []
       }
     ],
     "js": [
       {
-        "dest": "/static/js/4199dbc923054982882ff5afba82bdd4.js",
+        "dest": "/static/js/0996319be2c4f9517575b54dcc4af897.js",
         "deps": [
-          "../webroot-dev/coolie.js"
+          "../webroot-dev/node_modules/coolie.js/coolie.js"
         ]
       }
     ],

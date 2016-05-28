@@ -1,0 +1,2 @@
+/*coolie built*/
+define("0",[],function(n,o,a){var c=function(o){"#a"===location.hash?n.async("4",function(n){n()}):"#b"===location.hash?n.async("5",function(n){n()}):n.async("6",function(n){n()})};window.onhashchange=c;setTimeout(c,0)});
